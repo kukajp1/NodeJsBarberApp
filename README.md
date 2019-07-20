@@ -8,3 +8,8 @@ Comandos utilizados:
 - **(yarn add express nunjucks)** - Utilizado para adicionar as dependências **Express** e **Nunjucks**.
 - **(yarn add eslint -D)** - Utilizado para adicionar a dependência **ESLint**.
   - **(yarn eslint --init)** - Utilizado para configurar o **ESLint**.
+- **(yarn add sequelize)** - Utilizado para adicionar a dependência **Sequelize**.
+  - **(yarn add sequelize-cli -D)** - Utilizado para adicionar a dependência **Sequelize-Cli**.
+    - **(npx sequelize init)** - Utilizado para inicializar o **Sequelize**.
+    - **(npx sequelize migration:create --name=create-users)** - Utilizado para criar o *migration* do **Sequelize**.
+- **(yarn add pg)** - Utilizado para adicionar a dependência **Postgres**.
