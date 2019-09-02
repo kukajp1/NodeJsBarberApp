@@ -5,7 +5,7 @@ const path = require('path')
 class App {
   constructor () {
     this.express = express()
-    this.isDev = process.env.NODE_ENV !== 'production'
+    this.isDev = process.env.NODE_ENV !== 'production';
 
     this.middlewares()
     this.views()
