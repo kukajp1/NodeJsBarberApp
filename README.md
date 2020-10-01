@@ -1,6 +1,6 @@
 # NodeJsBarberApp
 
-Desenvolvimento App Barber.
+Desenvolvimento App Barber
 
 Comandos utilizados:
 
@@ -20,4 +20,3 @@ Comandos utilizados:
     - **(npx sequelize init)** - Utilizado para inicializar o **Sequelize**.
     - **(npx sequelize migration:create --name=create-users)** - Utilizado para
       criar o _migration_ do **Sequelize**.
-- **(yarn add pg)** - Utilizado para adicionar a dependência **Postgres**.
