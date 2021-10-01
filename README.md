@@ -1,6 +1,6 @@
 # NodeJsBarberApp
 
-Desenvolvimento App Barber.
+Desenvolvimento App Barber...
 
 Comandos utilizados:
 
